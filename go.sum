@@ -1,0 +1,4 @@
+github.com/gohugoio/hugoTestModules1_linux/modh1_2_1v v1.4.0 h1:u5NLARFfTvuIILVQ65UAPvTBrwg9aQgxEllWk/01wp4=
+github.com/gohugoio/hugoTestModules1_linux/modh1_2_1v v1.4.0/go.mod h1:hixsTLccfP2qEOSjYhJ8qCEsD+ubl9b0NlCtE9AcH/Y=
+github.com/theNewDynamic/gohugo-theme-ananke/v2 v2.11.2 h1:e57wIClfYebSg7lqJ6ZBbsPaOO+qYEUuqzKbOCwSMqA=
+github.com/theNewDynamic/gohugo-theme-ananke/v2 v2.11.2/go.mod h1:PiXJyylwvAMIfDiHY0SlP8fDwGHhq3ocwbP4TiuAevo=
