@@ -1,7 +1,7 @@
-module github.com/theNewDynamic/gohugo-theme-ananke/exampleSite
+module github.com/davidsneighbour/gohugo-theme-ananke-template-mod
 
-go 1.23
+go 1.22
 
-require (
-	github.com/theNewDynamic/gohugo-theme-ananke/v2 v2.11.2 // indirect
-)
+toolchain go1.24.0
+
+require github.com/theNewDynamic/gohugo-theme-ananke/v2 v2.12.0 // indirect
