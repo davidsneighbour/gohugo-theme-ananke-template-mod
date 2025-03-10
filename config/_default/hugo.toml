@@ -80,3 +80,11 @@ label = "Wikipedia"
 color = "#0645ad"
 profile = "https://en.wikipedia.org/wiki/%s"
 icon = "wikipedia-w"
+
+
+[module]
+[[module.imports]]
+disable = false
+ignoreConfig = false
+ignoreImports = false
+path = 'github.com/theNewDynamic/gohugo-theme-ananke/v2'
