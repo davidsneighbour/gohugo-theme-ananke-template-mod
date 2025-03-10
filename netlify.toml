@@ -1,0 +1,21 @@
+[build]
+publish = "./public"
+
+[context.production]
+command = "hugo --gc --minify"
+[context.production.environment]
+GO_VERSION = "1.23"
+HUGO_ENV = "production"
+HUGO_VERSION = "0.135.0"
+NODE_ENV = "development"
+
+# [[plugins]]
+# package = "@davidsneighbour/netlify-plugin-hugo-helper"
+# [plugins.inputs]
+# debug = false
+
+# [[headers]]
+# for = "/.well-known/avatar"
+# [headers.values]
+# Cache-Control = "public, max-age=2419200"
+# Content-Type = "image/jpeg"
