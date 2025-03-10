@@ -1,5 +1,10 @@
 Hugo Module based template repository for the [Ananke theme](https://github.com/theNewDynamic/gohugo-theme-ananke) for [GoHugo](https://gohugo.io/).
 
+## Versions
+
+- **[Install Ananke as GoHugo Module](https://github.com/davidsneighbour/gohugo-theme-ananke-template-mod) - this repository**
+- [Install Ananke as Git Submodule](https://github.com/davidsneighbour/gohugo-theme-ananke-template-submod)
+
 ## Requirements
 
 1. [Install Hugo](https://gohugo.io/installation/linux/) (extended or extended/deploy edition, 0.128.0 or later)
